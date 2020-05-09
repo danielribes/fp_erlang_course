@@ -1,6 +1,6 @@
 # Functional Programming in Erlang The University of Kent
 
-My exercises and comment in this course about Functional programming in Erlang
+My exercises and comments in this course about Functional programming in Erlang
 
 * Week 1
 * Week 2
