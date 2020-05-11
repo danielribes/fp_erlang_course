@@ -27,4 +27,3 @@ treble(A) ->
 
 square(A) -> 
     A*A.
-
